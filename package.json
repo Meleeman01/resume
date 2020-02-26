@@ -1,0 +1,23 @@
+{
+  "name": "resume",
+  "version": "1.0.0",
+  "description": "a resume for web development jobs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Meleeman01/resume.git"
+  },
+  "author": "Meleeman",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Meleeman01/resume/issues"
+  },
+  "homepage": "https://github.com/Meleeman01/resume#readme",
+  "dependencies": {
+    "font-awesome": "^4.7.0",
+    "pdfkit": "^0.11.0"
+  }
+}
