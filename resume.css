@@ -150,6 +150,7 @@ section {
 }
 .card div {
 	width: 50%;
+	padding: .5em;
 }
 
 .card h2 {
