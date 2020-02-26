@@ -46,7 +46,7 @@ ul {
 .name {
 	text-align: left;
 	margin-right: 1em;
-	width: 450px
+	width: 960px
 }
 
 .technologies {
@@ -58,6 +58,7 @@ ul {
 	flex-wrap: wrap;
 	margin: 0;
 	padding: 0;
+	padding-top: 2em;
 }
 .technologies ul li {
 	margin-right: .2em;
@@ -93,7 +94,7 @@ section {
 .row {
 	display: flex;
 	flex-wrap: wrap;
-	background-color: #eee;
+	background-color: #fff;
 	padding: 1em;
 	margin-bottom: 1em;
 	border-radius: 25px;
